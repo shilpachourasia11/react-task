@@ -2,7 +2,7 @@ React task
 =====================
 
 A minimal and light dev environment for ReactJS.
-
+React broilerplate has been used to create this small app.
 ```
 git clone https://github.com/shilpachourasia11/react-task
 ```
